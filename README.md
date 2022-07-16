@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Pandey</h1>
-<h3 align="center">FullStack Developer | Python Programmer | Java Programmer | Web Developer | Desktop Application Developer |</h3>
+<h3 align="center">FullStack Developer | Python Programmer | Java Programmer | Web Developer <br>| Desktop Application Developer |</h3>
 <img align="right" alt="coding" width="400" src="https://thumbs.dreamstime.com/z/anonymous-gamer-mascot-hacker-skull-boy-design-logo-template-mascot-anonymous-gamer-mascot-hacker-skull-boy-219741074.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravpandey0101&label=Profile%20views&color=0e75b6&style=flat" alt="gauravpandey0101" /> </p>
