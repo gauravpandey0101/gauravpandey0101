@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Pandey</h1>
 <h3 align="center">FullStack Developer | Python Programmer | Java Programmer | Web Developer <br>| Desktop Application Developer |</h3>
-<img align="center" alt="coding" width="300" src="https://thumbs.dreamstime.com/z/anonymous-gamer-mascot-hacker-skull-boy-design-logo-template-mascot-anonymous-gamer-mascot-hacker-skull-boy-219741074.jpg">
+<img align="center" alt="coding" width="200" src="https://thumbs.dreamstime.com/z/anonymous-gamer-mascot-hacker-skull-boy-design-logo-template-mascot-anonymous-gamer-mascot-hacker-skull-boy-219741074.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravpandey0101&label=Profile%20views&color=0e75b6&style=flat" alt="gauravpandey0101" /> </p>
 
@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on [E_Commerce Application](https://github.com/gauravpandey0101/E_shop)
 
-- 🌱 I’m currently learning **C, C++, JAVA, Python, MySql, Django, Html5, CSS, JS**
+- 🌱 I’m currently learning **Python, Django, C, JAVA**
 
 - 🤝 I’m looking for help with [ATM](N/A)
 
 - 👨‍💻 All of my projects are available at [https://github.com/gauravpandey0101/](https://github.com/gauravpandey0101/)
 
-- 💬 Ask me about **Python, Django, C, JAVA**
+- 💬 Ask me about **C, C++, JAVA, Python, TkInter, MySql, Django, Html5, CSS, JS**
 
 - 📫 How to reach me **gp7240724@gmail.com**
 
