@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Pandey</h1>
 <h3 align="center">FullStack Developer | Python Programmer | Java Programmer | Web Developer <br>| Desktop Application Developer |</h3>
-<img align="right" alt="coding" width="400" src="https://thumbs.dreamstime.com/z/anonymous-gamer-mascot-hacker-skull-boy-design-logo-template-mascot-anonymous-gamer-mascot-hacker-skull-boy-219741074.jpg">
+<img align="center" alt="coding" width="300" src="https://thumbs.dreamstime.com/z/anonymous-gamer-mascot-hacker-skull-boy-design-logo-template-mascot-anonymous-gamer-mascot-hacker-skull-boy-219741074.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravpandey0101&label=Profile%20views&color=0e75b6&style=flat" alt="gauravpandey0101" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [E_Commerce Application](https://github.com/gauravpandey0101/E_shop)
 
-- 🌱 I’m currently learning **C, c++, JAVA, Python, MySql, Django, Html5,CSS**
+- 🌱 I’m currently learning **C, C++, JAVA, Python, MySql, Django, Html5, CSS, JS**
 
 - 🤝 I’m looking for help with [ATM](N/A)
 
