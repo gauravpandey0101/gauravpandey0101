@@ -2,11 +2,9 @@
 <h3 align="center">FullStack Developer | Python Programmer | Java Programmer | Web Developer <br>| Desktop Application Developer |</h3>
 <img align="center" alt="coding" width="200" src="https://thumbs.dreamstime.com/z/anonymous-gamer-mascot-hacker-skull-boy-design-logo-template-mascot-anonymous-gamer-mascot-hacker-skull-boy-219741074.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravpandey0101&label=Profile%20views&color=0e75b6&style=flat" alt="gauravpandey0101" /> </p>
+<p align="left"> ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors) </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravpandey0101" alt="gauravpandey0101" /></a> </p>
+<p align="left"><a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy.vercel.app/?username=gauravpandey0101" alt="gauravpandey0101" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/gauravp25565724" target="blank"><img src="https://img.shields.io/twitter/follow/gauravp25565724?logo=twitter&style=for-the-badge" alt="gauravp25565724" /></a> </p>
 
