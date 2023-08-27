@@ -3,15 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/gauravp25565724" target="blank"><img src="https://img.shields.io/twitter/follow/gauravp25565724?logo=twitter&style=for-the-badge" alt="gauravp25565724" /></a> </p>
 
-- 🔭 I’m currently working on [E_Commerce Application](https://github.com/gauravpandey0101/E_shop)
+- 🔭 I’m currently Learning React....
 
-- 🌱 I’m currently learning **C, JAVA**
-
-- 🤝 I’m looking for help with [ATM](N/A)
+- 🌱 I’m currently learning **C, JAVA, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gauravpandey0101/](https://github.com/gauravpandey0101/)
 
-- 💬 Ask me about **C, JAVA, Python, TkInter, MySql, Django, Html5, CSS, JS**
+- 💬 Ask me about **C, JAVA, React, TkInter, MySql, Django, Html5, CSS, JS**
 
 - 📫 How to reach me **gp7240724@gmail.com**
 
