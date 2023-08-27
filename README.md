@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Learning React....
 
-- 🌱 I’m currently learning **C, JAVA, React**
+- 🌱 I’m currently learning **C, JAVA, React** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/gauravpandey0101/](https://github.com/gauravpandey0101/)
 
