@@ -5,16 +5,18 @@
  |</h3>
 <b>About Me</b>
 I'm a passionate Data Analyst and former Database Administrator with 6 months of experience managing databases for large restaurant applications. I'm currently interning as a Data Analyst at KultureHire and constantly seeking new opportunities to learn and grow in the fields of data science, web development, and backend systems.
-
+<br>
 <p align="left"> <a href="https://twitter.com/gauravp25565724" target="blank"><img src="https://img.shields.io/twitter/follow/gauravp25565724?logo=twitter&style=for-the-badge" alt="gauravp25565724" /></a> </p>
 
-- 🔭 I’m currently Learning React....
-
-- 🌱 I’m currently Working on **JAVA, React** 
+- 🔭 I am expanding my knowledge in:
+- Flask, Django for web development
+- Data Analysis techniques
+- Advanced PostgreSQL and SQL queries
+- Cloud technologies .... 
 
 - 👨‍💻 All of my projects are available at [https://github.com/gauravpandey0101/](https://github.com/gauravpandey0101/)
 
-- 💬 Ask me about **C, JAVA, React, TkInter, MySql, Django, Html5, CSS, JS**
+- 💬 Ask me about **C, Python, DBMS, PostgreSQL. Oracle, Excel, PowerBI, TkInter, MySql, Django, Html5, CSS, JS**
 
 - 📫 How to reach me **gp7240724@gmail.com**
 
