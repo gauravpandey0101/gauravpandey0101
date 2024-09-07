@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gaurav Pandey</h1>
-<h3 align="center">FullStack Developer | Java Programmer | Web Developer <br>| Desktop Application Developer |</h3>
+<h3 align="center">💻 Data Analyst Intern at KultureHire | Former DBA at ANR Software Pvt Ltd | Passionate about Data and Web Development
+📍 Noida, India
+🔗 SQL | PostgreSQL | Django | Flask | JavaScript
+ |</h3>
 
 <p align="left"> <a href="https://twitter.com/gauravp25565724" target="blank"><img src="https://img.shields.io/twitter/follow/gauravp25565724?logo=twitter&style=for-the-badge" alt="gauravp25565724" /></a> </p>
 
