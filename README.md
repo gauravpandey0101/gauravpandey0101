@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Pandey</h1>
 <h3 align="center">💻 Data Analyst Intern at KultureHire | Former DBA at ANR Software Pvt Ltd | Passionate about Data and Web Development
 📍 Noida, India <br>
-🔗 SQL | DBMS | Oracle | Python | PostgreSQL | Excel | PowerBI |  | Django |
+🔗 SQL | DBMS | Oracle | Python | PostgreSQL | Excel | PowerBI | Django 
  |</h3>
 <b>About Me</b>
 I'm a passionate Data Analyst and former Database Administrator with 6 months of experience managing databases for large restaurant applications. I'm currently interning as a Data Analyst at KultureHire and constantly seeking new opportunities to learn and grow in the fields of data science, web development, and backend systems.
