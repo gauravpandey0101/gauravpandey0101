@@ -3,13 +3,8 @@
 📍 Noida, India <br>
 🔗 SQL | DBMS | Oracle | Python | PostgreSQL | Excel | PowerBI |  | Django |
  |</h3>
-### Tech Stack:
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=database&logoColor=white&style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+<b>About Me</b>
+I'm a passionate Data Analyst and former Database Administrator with 6 months of experience managing databases for large restaurant applications. I'm currently interning as a Data Analyst at KultureHire and constantly seeking new opportunities to learn and grow in the fields of data science, web development, and backend systems.
 
 <p align="left"> <a href="https://twitter.com/gauravp25565724" target="blank"><img src="https://img.shields.io/twitter/follow/gauravp25565724?logo=twitter&style=for-the-badge" alt="gauravp25565724" /></a> </p>
 
